@@ -6,7 +6,10 @@ project made to introduce to raycasting system and 3D engine.
 
 ## How to use
 
-Compile project with `make` and launch the binary with `./wolf3d` with a map in `/map` as argument.
+Compile project with `make` and launch the binary with `./wolf3d` with a map in `/map` as argument.<BR>
+ 
+You can move with `w a s d` keys and arrows. Hold `Shift` to sprint. Press `h` to go to your home point. <BR>
+Press `f` to activate the mouse control.
 
 # Screenshots
 <P align="center">
