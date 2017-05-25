@@ -13,5 +13,5 @@ Press `f` to activate the mouse control.
 
 # Screenshots
 <P align="center">
-  <IMG src="https://img4.hostingpics.net/pics/473570ScreenShot20170513at113634AM.png"/>
+  <IMG src="https://img4.hostingpics.net/pics/924625here.png"/>
 </P>
